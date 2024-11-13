@@ -1,0 +1,12 @@
+.text,
+.sun{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+.text{
+    background-color: black;
+    color:white;
+}
+.sun{
+    background-color: yellow;
+}
